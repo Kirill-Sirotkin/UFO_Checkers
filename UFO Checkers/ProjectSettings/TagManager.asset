@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coordinator
+  - GameLevelManager
+  - Tile_Playable
+  - Tile_Non_Playable
+  - UFO_1
+  - UFO_2
+  - GameLevelPlayer
+  - StartScreenManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - UFO_1
+  - UFO_2
+  - Board
+  - UI2
+  - PostProcessing
+  - UI3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Board
+    uniqueID: 1803115771
+    locked: 0
+  - name: Board Selection
+    uniqueID: 4172517527
+    locked: 0
+  - name: UFO
+    uniqueID: 1549275691
+    locked: 0
+  - name: ExplosionFire
+    uniqueID: 4234018453
+    locked: 0
+  - name: ExplosionShrapnel
+    uniqueID: 1942500941
+    locked: 0
+  - name: ExplosionSmoke
+    uniqueID: 3485166349
+    locked: 0
+  - name: ExplosionLight
+    uniqueID: 3187453469
+    locked: 0
+  - name: UI Layer
+    uniqueID: 877171261
+    locked: 0
+  - name: PauseMenu Layer
+    uniqueID: 2529909385
+    locked: 0

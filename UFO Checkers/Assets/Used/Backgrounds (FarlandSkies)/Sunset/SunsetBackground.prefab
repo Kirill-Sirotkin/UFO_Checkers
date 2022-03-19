@@ -1,0 +1,284 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3344008017799794038
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7502028087648625995}
+  m_Layer: 0
+  m_Name: SunsetBackground
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7502028087648625995
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3344008017799794038}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6952706007307355578}
+  - {fileID: 7777191114792988628}
+  - {fileID: 2469938268926300428}
+  - {fileID: 5106313337844288283}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &131087731128742611
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7502028087648625995}
+    m_Modifications:
+    - target: {fileID: 2564602471371105247, guid: ff4ea48b1ecbbfd4f946e7b599e0d00b, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564602471371105247, guid: ff4ea48b1ecbbfd4f946e7b599e0d00b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564602471371105247, guid: ff4ea48b1ecbbfd4f946e7b599e0d00b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564602471371105247, guid: ff4ea48b1ecbbfd4f946e7b599e0d00b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564602471371105247, guid: ff4ea48b1ecbbfd4f946e7b599e0d00b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564602471371105247, guid: ff4ea48b1ecbbfd4f946e7b599e0d00b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564602471371105247, guid: ff4ea48b1ecbbfd4f946e7b599e0d00b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564602471371105247, guid: ff4ea48b1ecbbfd4f946e7b599e0d00b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564602471371105247, guid: ff4ea48b1ecbbfd4f946e7b599e0d00b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564602471371105247, guid: ff4ea48b1ecbbfd4f946e7b599e0d00b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564602471371105247, guid: ff4ea48b1ecbbfd4f946e7b599e0d00b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3616010017031502616, guid: ff4ea48b1ecbbfd4f946e7b599e0d00b, type: 3}
+      propertyPath: m_Name
+      value: CloudyCrown_Sunset_Front
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff4ea48b1ecbbfd4f946e7b599e0d00b, type: 3}
+--- !u!4 &2469938268926300428 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2564602471371105247, guid: ff4ea48b1ecbbfd4f946e7b599e0d00b, type: 3}
+  m_PrefabInstance: {fileID: 131087731128742611}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &483292411846740981
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7502028087648625995}
+    m_Modifications:
+    - target: {fileID: 6186059079796037720, guid: caebc908e847a2d499c776d41b483e22, type: 3}
+      propertyPath: m_Name
+      value: CloudyCrown_Sunset_Back
+      objectReference: {fileID: 0}
+    - target: {fileID: 7406176895156604495, guid: caebc908e847a2d499c776d41b483e22, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7406176895156604495, guid: caebc908e847a2d499c776d41b483e22, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -150
+      objectReference: {fileID: 0}
+    - target: {fileID: 7406176895156604495, guid: caebc908e847a2d499c776d41b483e22, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 7406176895156604495, guid: caebc908e847a2d499c776d41b483e22, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7406176895156604495, guid: caebc908e847a2d499c776d41b483e22, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7406176895156604495, guid: caebc908e847a2d499c776d41b483e22, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7406176895156604495, guid: caebc908e847a2d499c776d41b483e22, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7406176895156604495, guid: caebc908e847a2d499c776d41b483e22, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7406176895156604495, guid: caebc908e847a2d499c776d41b483e22, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7406176895156604495, guid: caebc908e847a2d499c776d41b483e22, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7406176895156604495, guid: caebc908e847a2d499c776d41b483e22, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: caebc908e847a2d499c776d41b483e22, type: 3}
+--- !u!4 &6952706007307355578 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7406176895156604495, guid: caebc908e847a2d499c776d41b483e22, type: 3}
+  m_PrefabInstance: {fileID: 483292411846740981}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1148023893833836000
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7502028087648625995}
+    m_Modifications:
+    - target: {fileID: 5235438669297415857, guid: c073cb41081a52f408280cdd1feccb00, type: 3}
+      propertyPath: m_Name
+      value: CloudyCrown_Sunset_Right
+      objectReference: {fileID: 0}
+    - target: {fileID: 7205965816468015668, guid: c073cb41081a52f408280cdd1feccb00, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7205965816468015668, guid: c073cb41081a52f408280cdd1feccb00, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7205965816468015668, guid: c073cb41081a52f408280cdd1feccb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 7205965816468015668, guid: c073cb41081a52f408280cdd1feccb00, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7205965816468015668, guid: c073cb41081a52f408280cdd1feccb00, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7205965816468015668, guid: c073cb41081a52f408280cdd1feccb00, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7205965816468015668, guid: c073cb41081a52f408280cdd1feccb00, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7205965816468015668, guid: c073cb41081a52f408280cdd1feccb00, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7205965816468015668, guid: c073cb41081a52f408280cdd1feccb00, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7205965816468015668, guid: c073cb41081a52f408280cdd1feccb00, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7205965816468015668, guid: c073cb41081a52f408280cdd1feccb00, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c073cb41081a52f408280cdd1feccb00, type: 3}
+--- !u!4 &7777191114792988628 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7205965816468015668, guid: c073cb41081a52f408280cdd1feccb00, type: 3}
+  m_PrefabInstance: {fileID: 1148023893833836000}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6849552110435410341
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7502028087648625995}
+    m_Modifications:
+    - target: {fileID: 1860896731337321150, guid: fef1fb8bfbd79404d984d716c973929f, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1860896731337321150, guid: fef1fb8bfbd79404d984d716c973929f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 1860896731337321150, guid: fef1fb8bfbd79404d984d716c973929f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 1860896731337321150, guid: fef1fb8bfbd79404d984d716c973929f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1860896731337321150, guid: fef1fb8bfbd79404d984d716c973929f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1860896731337321150, guid: fef1fb8bfbd79404d984d716c973929f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1860896731337321150, guid: fef1fb8bfbd79404d984d716c973929f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1860896731337321150, guid: fef1fb8bfbd79404d984d716c973929f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1860896731337321150, guid: fef1fb8bfbd79404d984d716c973929f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1860896731337321150, guid: fef1fb8bfbd79404d984d716c973929f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1860896731337321150, guid: fef1fb8bfbd79404d984d716c973929f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2967695291766291563, guid: fef1fb8bfbd79404d984d716c973929f, type: 3}
+      propertyPath: m_Name
+      value: CloudyCrown_Sunset_Left
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fef1fb8bfbd79404d984d716c973929f, type: 3}
+--- !u!4 &5106313337844288283 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1860896731337321150, guid: fef1fb8bfbd79404d984d716c973929f, type: 3}
+  m_PrefabInstance: {fileID: 6849552110435410341}
+  m_PrefabAsset: {fileID: 0}
